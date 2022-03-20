@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    text-align:center;
+    font-weight: bold;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: #ffff00;
+}
+
+body{
+    background-color:grey;
+}
+
+header{
+    background-color: black;
+}
